@@ -1,0 +1,3 @@
+rootProject.name = 'testMobix'
+
+include ':app'
